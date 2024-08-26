@@ -1,5 +1,8 @@
 # DigitClassification
 
+### Prezentare - Video:
+https://www.youtube.com/watch?v=I8zx-FPMxQo
+
 ### Input:  
 Imagini scrise de mana, setul de date MNIST, care constă în imagini de dimensiune 28x28 pixeli, alb-negru, un canal, reprezentând cifre scrise
 de mână de la 0 la 9. Fiecare imagine este o matrice de pixeli cu intensități între 0 și 255.
